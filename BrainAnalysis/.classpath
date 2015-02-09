@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/mipav"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate3.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/commons-csv-1.1/commons-csv-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/libs/apache-struts-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/libs/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/libs/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/libs/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YongFang/Desktop/Academics/OOSE/project/libs/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

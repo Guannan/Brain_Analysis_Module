@@ -1,0 +1,7 @@
+
+Object-Oriented Software Engineering Fall 2014 Project
+
+Implemented a database storage and retrieval system for patient records. Interfaced with Java Imaging Software Toolkit as a plugin.
+Database manager GUI can specify image processing pipeline, user accounts, and generate session reports.
+
+
